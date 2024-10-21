@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ben-portfolio/static/css/main.5c5396ea.css",
+    "main.js": "/ben-portfolio/static/js/main.2ac09081.js",
+    "static/js/453.134209e2.chunk.js": "/ben-portfolio/static/js/453.134209e2.chunk.js",
+    "static/media/MochiyPopOne-Regular.ttf": "/ben-portfolio/static/media/MochiyPopOne-Regular.bbb9d9fc503018eae9cb.ttf",
+    "static/media/TwoPlayer.png": "/ben-portfolio/static/media/TwoPlayer.3cf7ca5b6f7a824acff7.png",
+    "static/media/SkinSelect.png": "/ben-portfolio/static/media/SkinSelect.fe432ded7b02a2f7d80f.png",
+    "static/media/portrait.jpg": "/ben-portfolio/static/media/portrait.e7925b6ee59038439b6e.jpg",
+    "static/media/icon.jpg": "/ben-portfolio/static/media/icon.6739e42ab1d95862284a.jpg",
+    "static/media/HomeScreen.png": "/ben-portfolio/static/media/HomeScreen.c79a739d1580b23e2109.png",
+    "static/media/butterfly.png": "/ben-portfolio/static/media/butterfly.c5b6e6e97c41c8da06c2.png",
+    "static/media/BrandMarkSmall.png": "/ben-portfolio/static/media/BrandMarkSmall.7d67c4d1b6033df0e0f1.png",
+    "static/media/ENDOR___.ttf": "/ben-portfolio/static/media/ENDOR___.fc2741e7d471c6885971.ttf",
+    "static/media/blackTextLogoSmall.png": "/ben-portfolio/static/media/blackTextLogoSmall.180793ca904cf305890d.png",
+    "index.html": "/ben-portfolio/index.html",
+    "main.5c5396ea.css.map": "/ben-portfolio/static/css/main.5c5396ea.css.map",
+    "main.2ac09081.js.map": "/ben-portfolio/static/js/main.2ac09081.js.map",
+    "453.134209e2.chunk.js.map": "/ben-portfolio/static/js/453.134209e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c5396ea.css",
+    "static/js/main.2ac09081.js"
+  ]
+}

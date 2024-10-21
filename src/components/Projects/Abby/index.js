@@ -12,27 +12,30 @@ export default function Abby() {
       <div className="flex justify-between">
         <div>
           <p>
-            I worked in a team to develop Abby over the course of 2 years. Abby
-            began as an AI journal analysis tool powered by custom models, then,
-            as GPT technologies were developed, we integrated them to evolve
-            Abby into to a fully fledged health assistant.
+            Our team at the startup AbbyHealth developed Abby, the healthcare
+            assistant. Abby began as an AI journal analysis tool, and evolved
+            with GPT technologies as they were developed.
           </p>
         </div>
         <div>
           <h3 className="font-bold">Main responsibilities</h3>
-          <ul className="list-disc">
+          <ul className="list-disc ml-4">
             <li>
-              Follow AI landscape, innovate, design and implement new uses of AI
-              for our product
+              Follow AI landscape to innovate, design and implement new uses of
+              AI for our product
             </li>
-            <li>Train custom models when needed</li>
+            <li>Train custom models</li>
+            <li>
+              Collaborate with medical team to safely and effectively
+              incorporate their domain knowledge
+            </li>
             <li>Develop backend infrastructure</li>
             <li>Implement frontend designs</li>
           </ul>
         </div>
       </div>
       <a
-        className="text-blue font-bold border-2 border-black p-2 rounded-full"
+        className="text-blue font-bold p-2 rounded-full bg-[#0065ff] text-white"
         href="https://www.abbyhealth.app/"
         target="blank"
       >

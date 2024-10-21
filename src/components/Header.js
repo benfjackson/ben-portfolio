@@ -9,7 +9,7 @@ export default function Header() {
 
   return (
     <header className="fixed top-0 left-0 right-0 bg-gray-800 text-white p-4 flex justify-between items-center z-10">
-      <div className="text-xl font-bold">Ben Jackson</div>
+      <div className="text-xl font-bold pl-10">Ben Jackson</div>
       <div>
         <button
           onClick={() => scrollToSection("about")}

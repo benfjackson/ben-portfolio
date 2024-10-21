@@ -8,10 +8,9 @@ import Skills from "./components/skills";
 export default function HomePage() {
   return (
     <div>
-      {/* Sticky Header */}
-      <Header />;{/* Main content sections */}
-      <main className="">
-        <Intro />
+      <Header />;
+      <main>
+        {/* <Intro /> */}
 
         <About />
 

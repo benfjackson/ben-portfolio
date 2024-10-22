@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ben-portfolio/static/css/main.5c5396ea.css",
-    "main.js": "/ben-portfolio/static/js/main.eaee1abe.js",
+    "main.css": "/ben-portfolio/static/css/main.9be2b6a5.css",
+    "main.js": "/ben-portfolio/static/js/main.a3c8f82c.js",
     "static/js/453.134209e2.chunk.js": "/ben-portfolio/static/js/453.134209e2.chunk.js",
     "static/media/MochiyPopOne-Regular.ttf": "/ben-portfolio/static/media/MochiyPopOne-Regular.bbb9d9fc503018eae9cb.ttf",
     "static/media/TwoPlayer.png": "/ben-portfolio/static/media/TwoPlayer.3cf7ca5b6f7a824acff7.png",
@@ -14,12 +14,12 @@
     "static/media/ENDOR___.ttf": "/ben-portfolio/static/media/ENDOR___.fc2741e7d471c6885971.ttf",
     "static/media/blackTextLogoSmall.png": "/ben-portfolio/static/media/blackTextLogoSmall.180793ca904cf305890d.png",
     "index.html": "/ben-portfolio/index.html",
-    "main.5c5396ea.css.map": "/ben-portfolio/static/css/main.5c5396ea.css.map",
-    "main.eaee1abe.js.map": "/ben-portfolio/static/js/main.eaee1abe.js.map",
+    "main.9be2b6a5.css.map": "/ben-portfolio/static/css/main.9be2b6a5.css.map",
+    "main.a3c8f82c.js.map": "/ben-portfolio/static/js/main.a3c8f82c.js.map",
     "453.134209e2.chunk.js.map": "/ben-portfolio/static/js/453.134209e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c5396ea.css",
-    "static/js/main.eaee1abe.js"
+    "static/css/main.9be2b6a5.css",
+    "static/js/main.a3c8f82c.js"
   ]
 }

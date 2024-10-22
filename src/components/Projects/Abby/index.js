@@ -10,12 +10,21 @@ export default function Abby() {
       </div>
 
       <div className="flex justify-between">
-        <div>
+        <div className="pt-4 w-2/3">
           <p>
-            Our team at the startup AbbyHealth developed Abby, the healthcare
-            assistant. Abby began as an AI journal analysis tool, and evolved
-            with GPT technologies as they were developed.
+            I was one of two AI specialists in a team of 5 at the startup
+            AbbyHealth. Over two years my colleagues and I developed Abby, the
+            AI healthcare assistant, which began as an AI journal analysis tool
+            and evolved with GPT technologies as they were developed.
           </p>
+          <br />
+          <a
+            className="text-blue font-bold p-2 rounded-full bg-[#0065ff] text-white"
+            href="https://www.abbyhealth.app/"
+            target="blank"
+          >
+            See Abby in action here
+          </a>
         </div>
         <div>
           <h3 className="font-bold">Main responsibilities</h3>
@@ -34,14 +43,6 @@ export default function Abby() {
           </ul>
         </div>
       </div>
-      <a
-        className="text-blue font-bold p-2 rounded-full bg-[#0065ff] text-white"
-        href="https://www.abbyhealth.app/"
-        target="blank"
-      >
-        {" "}
-        Check out Abby here
-      </a>
     </div>
   );
 }

@@ -90,7 +90,16 @@ export default function Skills() {
         />
       ),
     },
-
+    {
+      skillTitle: "Tensorflow",
+      skillSVG: (
+        <img
+          height="32"
+          width="32"
+          src="https://cdn.simpleicons.org/tensorflow"
+        />
+      ),
+    },
     {
       skillTitle: "Pytorch",
       skillSVG: (
@@ -176,29 +185,10 @@ export default function Skills() {
       "
     >
       <div className=" w-4/5 items-center  space-y-10">
-        <div>
-          <h2 className="text-3xl font-bold">Schooling</h2>
-          <p>
-            <p>
-              I attended UNSW from 2019-2022, where my Advanced Mathematics &
-              Compsci double degree let me formally study AI from all angles. In
-              courses theoretical, implementation, ethics, and even philosophy
-              of mind.
-            </p>
-            <ul className="ml-4 list-disc">
-              <li>Advanced Topics in Statistical Machine Learning</li>
-              <li>Machine Learning and Data Mining</li>
-              <li>Neural Networks and Deep Learning</li>
-              <li>Mathematical Optimization for Data Science</li>
-              <li>Statistical Modelling and Computing</li>
-              <li>Mind, Ethics, and Freedom: Introduction to Philosophy</li>
-              <li>Professional Issues and Ethics in Information Technology</li>
-            </ul>
-          </p>
-        </div>
-
-        <div>
+        <div className="space-y-4">
           <h2 className="text-3xl font-bold">Skills</h2>
+
+          <p>I have practical experience with the following software skills</p>
           <div className="flex flex-row justify-between w-full">
             <SkillList title={"Frameworks and Tools"} skills={frameworks} />
             <SkillList title={"Programming Languages"} skills={languages} />

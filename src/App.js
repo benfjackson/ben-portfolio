@@ -4,6 +4,7 @@ import Intro from "./components/Intro";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Skills from "./components/skills";
+import Schooling from "./components/Schooling";
 
 export default function HomePage() {
   return (
@@ -13,6 +14,8 @@ export default function HomePage() {
         {/* <Intro /> */}
 
         <About />
+
+        <Schooling />
 
         <Skills />
 

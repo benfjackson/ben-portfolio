@@ -15,7 +15,13 @@ export default function Header() {
           onClick={() => scrollToSection("about")}
           className="mx-2 px-4 py-2 bg-white text-gray-800 hover:text-white hover:bg-blue-600 rounded"
         >
-          About
+          Me
+        </button>
+        <button
+          onClick={() => scrollToSection("schooling")}
+          className="mx-2 px-4 py-2 bg-white text-gray-800 hover:text-white hover:bg-blue-600 rounded"
+        >
+          Schooling
         </button>
         <button
           onClick={() => scrollToSection("skills")}
